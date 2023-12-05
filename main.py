@@ -3,7 +3,7 @@ import cv2
 
 
 def camera_start():
-    return cv2.VideoCapture(0)
+    return cv2.VideoCapture(1)
 
 
 def load_model():

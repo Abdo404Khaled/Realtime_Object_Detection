@@ -38,6 +38,9 @@ $ python main.py
 
 - Make sure to adjust the `device` variable in the script based on your hardware (cuda or cpu).
 
+## Screenshot
+![Demo Image](screenshots/demo.png)
+
 ## Acknowledgments
 
 - YOLOv5: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
